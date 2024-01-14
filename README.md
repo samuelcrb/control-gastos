@@ -1,8 +1,25 @@
-# React + Vite
+# Control de Gastos Mensuales
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bienvenido/a al repositorio del proyecto "Control de Gastos Mensuales". Esta aplicación te permite gestionar de manera efectiva tus finanzas personales, estableciendo un presupuesto mensual y registrando tus gastos para un mejor seguimiento financiero.
 
-Currently, two official plugins are available:
+## Características Principales
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Establecimiento de Presupuesto:**
+  - Define tu presupuesto mensual para controlar tus gastos.
+
+- **Registro de Gastos:**
+  - Añade tus gastos de forma intuitiva, especificando el nombre, la cantidad y la categoría.
+
+- **Visualización Clara:**
+  - Obten una visión clara de tus gastos mensuales y cómo impactan en tu presupuesto.
+
+- **Seguimiento en Tiempo Real:**
+  - Observa en tiempo real cómo cada gasto afecta tu presupuesto y la cantidad disponible.
+
+- **Gráficos Informativos:**
+  - Acompaña tus datos financieros con gráficos que te proporcionan una representación visual de tus gastos.
+
+## Tecnologías Utilizadas
+
+- React
+- [react-circular-progressbar](https://www.npmjs.com/package/react-circular-progressbar) para la representación visual del porcentaje gastado.
