@@ -1,4 +1,4 @@
-# Control de Gastos Mensuales
+# Control de Gastos
 
 Bienvenido/a al repositorio del proyecto "Control de Gastos Mensuales". Esta aplicación te permite gestionar de manera efectiva tus finanzas personales, estableciendo un presupuesto mensual y registrando tus gastos para un mejor seguimiento financiero.
 
