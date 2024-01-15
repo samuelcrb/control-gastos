@@ -1,4 +1,4 @@
-# Control de Gastos Mensuales
+# Control de Gastos
 
 Bienvenido/a al repositorio del proyecto "Control de Gastos Mensuales". Esta aplicación te permite gestionar de manera efectiva tus finanzas personales, estableciendo un presupuesto mensual y registrando tus gastos para un mejor seguimiento financiero.
 
@@ -7,8 +7,9 @@ Bienvenido/a al repositorio del proyecto "Control de Gastos Mensuales". Esta apl
 - **Establecimiento de Presupuesto:**
   - Define tu presupuesto mensual para controlar tus gastos.
 
-- **Registro de Gastos:**
+- **Gastos:**
   - Añade tus gastos de forma intuitiva, especificando el nombre, la cantidad y la categoría.
+  - Edita o elimina un gasto deslizando con el ratón hacia la izquierda (editar) o a la derecha (eliminar).
 
 - **Visualización Clara:**
   - Obten una visión clara de tus gastos mensuales y cómo impactan en tu presupuesto.
